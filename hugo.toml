@@ -1,0 +1,4 @@
+baseURL = 'https://802-1x.github.io/ncsg-presentation-august-2024/#/'
+languageCode = 'en-au'
+title = 'ncsg-presentation-august-2024'
+theme = ["reveal-hugo"]
