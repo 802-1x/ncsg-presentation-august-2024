@@ -1,9 +1,7 @@
----
-
++++
 title = "The Anatomy of a Branch Site Audit"
 outputs = ["Reveal"]
-
----
++++
 
 {{< slide background-image="images/Slide1.jpg" >}}
 
